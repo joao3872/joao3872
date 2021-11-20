@@ -45,5 +45,5 @@
 
 <section>
 <img src="https://img.shields.io/github/watchers/joao3872/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000" />
-<img src="https://img.shields.io/github/followers/joao3872.svg?style=social&label=Follow&maxAge=2592000" />
+<img align="right" src="https://img.shields.io/github/followers/joao3872.svg?style=social&label=Follow&maxAge=2592000" />
 </section>
