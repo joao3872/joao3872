@@ -33,7 +33,7 @@
 </section>
 
 ### Blog Recomendado:
-<a href="https://dev.to/">
+<a href="https://dev.to/" target="_blank">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
