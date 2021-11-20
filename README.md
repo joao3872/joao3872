@@ -43,11 +43,11 @@
 
 * Dev.to explica os conteúdos de forma clara e objetiva !
 
+![Snake animation](https://github.com/joao3872/joao3872/blob/output/github-contribution-grid-snake.svg)
+
 <section>
 <a href="https://github.com/joao3872">
 <img src="https://img.shields.io/github/watchers/joao3872/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000" />
 <img align="right" src="https://img.shields.io/github/followers/joao3872.svg?style=social&label=Follow&maxAge=2592000" />
 </a>
 </section>
-
-![Snake animation](https://github.com/joao3872/joao3872/blob/output/github-contribution-grid-snake.svg)
