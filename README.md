@@ -43,10 +43,13 @@
 
 * Dev.to explica os conteúdos de forma clara e objetiva !
 
+<section align="center">
+<a href="https://github.com/joao3872">
+
 ![Snake animation](https://github.com/joao3872/joao3872/blob/output/github-contribution-grid-snake.svg)
 
-<section>
-<a href="https://github.com/joao3872">
-<img align="right" src="https://img.shields.io/github/followers/joao3872.svg?style=social&label=Follow&maxAge=2592000" />
+### Visualizações do Perfil
+<img src="https://profile-counter.glitch.me/joao3872/count.svg" />
+<p>Obrigado pela visita !</p>
 </a>
 </section>
