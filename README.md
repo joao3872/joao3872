@@ -51,6 +51,6 @@
 ### Visualizações do Perfil 👀
 <img src="https://profile-counter.glitch.me/joao3872/count.svg" />
 
-#### Obrigado pela visita ! 👍
+### Obrigado pela visita ! 👍
 </a>
 </section>
