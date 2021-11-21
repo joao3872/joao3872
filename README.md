@@ -56,7 +56,8 @@
 ![Snake animation](https://github.com/joao3872/joao3872/blob/output/github-contribution-grid-snake.svg)
 
 ### Visualizações do Perfil 👀
-    <img src="https://profile-counter.glitch.me/joao3872/count.svg" />
+
+  <img src="https://profile-counter.glitch.me/joao3872/count.svg" />
 
 ### Obrigado pela visita ! 👍
   </a>
