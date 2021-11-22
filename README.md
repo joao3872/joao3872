@@ -1,6 +1,14 @@
 ## Olá, seja bem-vindo(a) ao meu Perfil ! 👋
 ### João Matheus Da Silva Ferreira
 
+### Sobre mim:
+
+* Sou Esforçado ! 💪
+* Gosto muito de Tecnologia ! ❤
+* Atualmente sou estudante ! 👨‍🏫
+* Normalmente, aprendo as coisas com facilidade ! 🤓
+* Sou uma pessoa compreensiva e gosto de trabalhar em Equipe ! 🤜🤛
+
 ### Formas de Contato:
 <div>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
