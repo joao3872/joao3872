@@ -35,11 +35,6 @@
   </a>
 </div>
 
-### Grupo:
-<a href="#">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
 <div>
   <a href="https://github.com/joao3872">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao3872&theme=chartreuse-dark&show_icons=true" />
