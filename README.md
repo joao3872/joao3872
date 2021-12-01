@@ -82,6 +82,12 @@
 
 * Dev.to explica os conteúdos de forma clara e objetiva !
 
+### Cursos Recomendados:
+
+* [Curso em Vídeo](https://www.cursoemvideo.com/)
+* [Rocketseat](https://www.rocketseat.com.br/)
+* [Digital Innovation One](https://digitalinnovation.one/)
+
 <section align="center">
   <a href="https://github.com/joao3872">
 
