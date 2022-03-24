@@ -21,7 +21,7 @@
 </div>
 
 ### Meu Portfólio:
-* <a href="https://joao3872.github.io/Meu-Portfolio/" target="_blank">Acessar Portfólio</a>
+* #### <a href="https://joao3872.github.io/Meu-Portfolio/" target="_blank">Acessar Portfólio</a>
 
 ### Minhas Redes Sociais:
 <div>
